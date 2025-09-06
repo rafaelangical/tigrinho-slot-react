@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import TigrinhoSlotMachine from "./components/TigrinhoSlotMachine";
 import Leaderboard from "./components/Leaderboard";
-import "./App.css";
+import "./Index.css";
 
 function App() {
   const [score, setScore] = useState(100);
